@@ -1,3 +1,3 @@
-ini fitur 1
+Mengapa pengecekan pada struktur IF tersebut tidak melibatkan kondisi dengan operator relasional?
 
-ini fitur 3
+Saat program dijalankan, kemudian Anda mengisikan nilai false, bagaimana hasilnya?
