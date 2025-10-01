@@ -19,12 +19,13 @@ public class nestedUjianSkripsi06 {
             System.out.println("Gagal! Log bimbingan P1 kurang dari 8 kali dan P2 kurang dari 4 kali");
         } else if (bimbinganP1 < 8) {
             System.out.println("Gagal! Log bimbingan P1 belum mencapai 8 kali");
+        }else {
+            System.out.println("Gagal! Log bimbingan P2 belum mmencapai 4 kali");
         }
             
         }else {
-            System.out.println("Gagal! Mahasiswa masih memiliki tangguan kompen");
+            System.out.println("Gagal! Mahasiswa masih memiliki tanggungan kompen");
         }
-        System.out.println("pesan");
         sc.close();
     }
     }

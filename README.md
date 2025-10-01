@@ -8,3 +8,7 @@ PERCOBAAN 2
 Jawaban : untuk menghentikan proses perulangan atau keluar dari struktur switch secara langsung, meskipun kondisi perulangan belum selesai
 2. Apa peran dari sintaks default pada struktur pemilihan SWITCH-CASE?
 Jawaban : sintaks default pada struktur pemilihan SWITCH-CASE dipakai untuk menampung pilihan terakhir,yaitu ketika tidak ada satu pun case yang sesuai.
+PERCOBAAN 3
+1. Apa yang terjadi jika mahasiswa menjawab "No" pada pertanyaan bebas kompen?
+Jawaban :
+2. Jelaskan maksud dari potongan kode berikut!
