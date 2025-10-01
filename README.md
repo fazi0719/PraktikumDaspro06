@@ -25,4 +25,4 @@ Gagal! log bimbingan P1 kurang dari 8 kali dan P2 kurang dari 4 kali.
 8 keluar pesan:
 Gagal! log bimbingan P1 belum mencapai 8 kali.
 -Jika mahasiswa sudah bebas kompen tetapi hanya bimbingan P2 yang kurang dari 4 keluar pesan:
-Gagal! log bimbingan P2 belum mencapai 4 kali.
+Gagal! log bimbingan P2 belum mencapai 4 kali
